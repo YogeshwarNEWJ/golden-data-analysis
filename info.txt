@@ -1,1 +1,2 @@
 Here important notes will be included
+1. This is first version of golden data. There are several other updates after this. (increased data size and the feature values are changed based on analysis and requirements)
